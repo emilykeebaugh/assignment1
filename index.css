@@ -1,0 +1,95 @@
+.header{
+    background-color: aqua;
+    height: 20%;
+    padding: 10px;
+    margin: 10px;
+    font-size: 200%;
+}
+
+
+.row{
+    display: flex;
+    height: 20%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.column1{
+    flex: 30%;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    font-size: 200%;
+}
+
+        .nav{
+        text-align: center;
+         }
+
+
+         .header1{
+            font-size: 70%;
+         }
+
+.column2{
+    flex: 60%;
+    background-color: greenyellow;
+    padding: 10px;
+    margin: 10px;
+    font-size: 200%;
+}
+
+        .article{
+            text-align: center;
+        }
+
+
+        .section1{
+         background-color: purple;
+         padding: 10px;
+         margin: 10px;
+         font-size: 70%;
+         }
+         .section2{
+            background-color: purple;
+            padding: 10px;
+            margin: 10px;
+            font-size: 70%;
+            }
+
+.column3{
+    flex: 30%;
+    background-color: orange;
+    padding: 10px;
+    margin: 10px;
+    font-size: 200%;
+}
+
+
+        .section4{
+            background-color: red;
+            padding: 10px;
+            margin: 10px;
+            font-size: 70%;
+        }
+        .section5{
+            background-color: red;
+            padding: 10px;
+             margin: 10px;
+             font-size: 70%;
+        }
+        .section6{
+            background-color: red;
+            padding: 10px;
+             margin: 10px;
+             font-size: 70%;
+        }
+
+
+.footer{
+    background-color: aqua;
+    height: 20%;
+    padding: 10px;
+    margin: 10px;
+    font-size: 200%;
+}
